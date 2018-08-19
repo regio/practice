@@ -1,2 +1,10 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+Deise Victorino
+=======
+Vitor Luvizetto
+>>>>>>> c037980471c0a3da1843e676c6b5c1c81d6093c1
+=======
 Vitor Luvizetto
 Danusa Piovesan
+>>>>>>> 2cde7003c5cc86094e4487ce53d73a6c515f22e3
